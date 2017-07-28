@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>locName</key>
+		<string>Otter Creek Road</string>
+		<key>address</key>
+		<string>Otter Creek Road, Boonville, IN 47601, USA</string>
+		<key>latitude</key>
+		<real>38.115746</real>
+		<key>longitude</key>
+		<real>-87.3140308</real>
+	</dict>
+	<dict>
+		<key>locName</key>
+		<string>Wykoff Ln</string>
+		<key>address</key>
+		<string>800-1192 Wykoff Ln, Washington, IN 47501, USA</string>
+		<key>latitude</key>
+		<real>38.66749</real>
+		<key>longitude</key>
+		<real>-87.18647900000001</real>
+	</dict>
+	<dict>
+		<key>locName</key>
+		<string>County Rd</string>
+		<key>address</key>
+		<string>13221 County Rd 100, Loogootee, IN 47553, USA</string>
+		<key>latitude</key>
+		<real>38.6426527</real>
+		<key>longitude</key>
+		<real>-86.923829</real>
+	</dict>
+	<dict>
+		<key>locName</key>
+		<string>S 3rd St, Velpen</string>
+		<key>address</key>
+		<string>4477 S 3rd St, Velpen, IN 47590, USA</string>
+		<key>latitude</key>
+		<real>38.357537</real>
+		<key>longitude</key>
+		<real>-87.1012949</real>
+	</dict>
+</array>
+</plist>
